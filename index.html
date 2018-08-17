@@ -43,6 +43,7 @@ p {
 	color: #990000;
 }
 .content {
+    margin-top: 3px;
 	font-size: 16px;
 	font-family: Tahoma, Geneva, sans-serif;
 	text-align: justify;
@@ -189,7 +190,7 @@ strong a:active {
         <tr>
             <td width="1000">
                 <p align="justify" class="content">
-                    A rookie in CS in <strong><a href="http://www.sysu.edu.cn/2012/cn/index.htm/" target="_blank" rel="nofollow" class="caption-2">Sun Yat-sen University (SYSU)</a></strong>, haha.
+                    A rookie in CS in <strong><a href="http://www.sysu.edu.cn/2012/cn/index.htm" target="_blank" rel="nofollow" class="caption-2">Sun Yat-sen University (SYSU)</a></strong>, haha.
                     I am interested in <strong>Computer Vision</strong> and <strong>Computer Graphics</strong>.
                 </p>
                 <br>
@@ -228,14 +229,27 @@ strong a:active {
 
             <div class="paper" id="SketchyScene_eccv">
             <p class="content">
-            <strong><a href="">Project Page</a></strong> |
+            <strong><a href="https://sketchyscene.github.io/SketchyScene/">Project Page</a></strong> |
             <strong><a href="https://arxiv.org/pdf/1808.02473.pdf">paper</a></strong> |
             <strong><a href="https://github.com/SketchyScene/SketchyScene">github</a></strong> |
             <strong><a href="javascript:toggleblock('SketchyScene_eccv18')">abstract</a></strong> |
             <strong><a shape="rect" href="javascript:togglebib('SketchyScene_eccv')" class="togglebib">bibtex</a></strong> </p>
             <p align="justify"> <i id="SketchyScene_eccv18"> We contribute the first large-scale dataset of scene sketches, SketchyScene, with the goal of advancing research on sketch understanding at both the object and scene level. The dataset is created through a novel and carefully designed crowdsourcing pipeline, enabling users to efficiently generate large quantities realistic and diverse scene sketches. SketchyScene contains more than 29,000 scene-level sketches, 7,000+ pairs of scene templates and photos, and 11,000+ object sketches. All objects in the scene sketches have ground-truth semantic and instance masks. The dataset is also highly scalable and extensible, easily allowing augmenting and/or changing scene composition. We demonstrate the potential impact of SketchyScene by training new computational models for semantic segmentation of scene sketches and showing how the new dataset enables several applications including image retrieval, sketch colorization, editing, and captioning, etc. </i></p>
             <pre xml:space="preserve" style="display: none;">
-bibtex
+@inproceedings{ZouSketchyScene,
+  author    = {Changqing Zou and
+                Qian Yu and
+                Ruofei Du and
+                Haoran Mo and
+                Yi-Zhe Song and
+                Tao Xiang and
+                Chengying Gao and
+                Baoquan Chen and
+                Hao Zhang},
+  title     = {SketchyScene: Richly-Annotated Scene Sketches},
+  booktitle = {ECCV},
+  year      = {2018}
+}
             </pre>
             </div>
         </td>
