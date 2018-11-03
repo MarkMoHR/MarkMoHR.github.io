@@ -144,7 +144,7 @@ strong a:active {
                     <tr height="20">
                     <td>
                        <p class="caption">Hao-Ran Mo</p>
-                       <p class="content">Undergraduate Student</p>
+                       <p class="content">Graduate Student (1st Year)</p>
                        <p class="content">School Of Data and Computer Science, SYSU</p>
                        <p class="content">Guangzhou, China</p>
                     </td>
@@ -190,7 +190,7 @@ strong a:active {
         <tr>
             <td width="1000">
                 <p align="justify" class="content">
-                    A rookie in CS in <strong><a href="http://www.sysu.edu.cn/2012/cn/index.htm" target="_blank" rel="nofollow" class="caption-2">Sun Yat-sen University (SYSU)</a></strong>, haha.
+                    A rookie in CS in <strong><a href="http://www.sysu.edu.cn/2012/cn/index.htm" target="_blank" rel="nofollow" class="caption-2">Sun Yat-sen University (SYSU)</a></strong>.
                     I am interested in <strong>Computer Vision</strong> and <strong>Computer Graphics</strong>.
                 </p>
                 <br>
@@ -204,6 +204,56 @@ strong a:active {
 
 <p id="sect-publications" class="title-large">Publications</p>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+        <td width="20%" valign="top">
+            <a href="" class="hoverZoomLink"><img src="./files/LUCSS/teaser.png" alt="LUCSS" width="100%" border="1"></a>
+        </td>
+        <td width="80%" valign="top">
+            <heading>LUCSS: Language-based User-customized Colorization of Scene Sketches</heading>
+            <br>
+            <p class="margin">&nbsp;</p>
+            <p class="content">
+                <a href="https://changqingzou.weebly.com/">Changqing Zou*</a>,
+                <strong>Haoran Mo*</strong> (joint first author),
+                <a href="http://www.duruofei.com/">Ruofei Du</a>,
+                Xing Wu,
+                <a href="http://sdcs.sysu.edu.cn/content/2537">Chengying Gao</a> and
+                <a href="http://sweb.cityu.edu.hk/hongbofu/">Hongbo Fu</a>
+            </p>
+            <p class="margin-small">&nbsp;</p>
+            <p class="content"><em>arxiv</em>, 2018
+            <p class="margin">&nbsp;</p>
+
+            <div class="paper" id="LUCSS">
+            <p class="content">
+            <strong><a href="https://arxiv.org/pdf/1808.10544.pdf">paper</a></strong> |
+            <strong><a href="http://users.umiacs.umd.edu/~ruofei/LUCSS.mp4">demo</a></strong> |
+            <strong><a href="javascript:toggleblock('LUCSS_18')">abstract</a></strong> |
+            <strong><a shape="rect" href="javascript:togglebib('LUCSS')" class="togglebib">bibtex</a></strong>
+            </p>
+            <p align="justify"> <i id="LUCSS_18">
+                We introduce LUCSS, a language-based system for interactive colorization of scene sketches, based on
+                their semantic understanding. LUCSS is built upon deep neural networks trained via a large-scale
+                repository of scene sketches and cartoon-style color images with text descriptions. It consists of
+                three sequential modules. First, given a scene sketch, the segmentation module automatically partitions
+                an input sketch into individual object instances. Next, the captioning module generates the text
+                description with spatial relationships based on the instance-level segmentation results. Finally, the
+                interactive colorization module allows users to edit the caption and produce colored images based on
+                the altered caption. Our experiments show the effectiveness of our approach and the desirability of
+                its components to alternative choices. </i></p>
+            <pre xml:space="preserve" style="display: none;">
+@article{zou2018lucss,
+  title={LUCSS: Language-based User-customized Colourization of Scene Sketches},
+  author={Zou, Changqing and Mo, Haoran and Du, Ruofei and Wu, Xing and Gao, Chengying and Fu, Hongbo},
+  journal={arXiv preprint arXiv:1808.10544},
+  year={2018}
+}
+            </pre>
+            </div>
+        </td>
+    </tr>
+
+
     <tr>
         <td width="20%" valign="top">
             <a href="https://github.com/SketchyScene/SketchyScene" class="hoverZoomLink"><img src="./files/ECCV18/sketchyscene.png" alt="SketchyScene_eccv18" width="100%" border="1"></a>
@@ -234,7 +284,16 @@ strong a:active {
             <strong><a href="https://github.com/SketchyScene/SketchyScene">github</a></strong> |
             <strong><a href="javascript:toggleblock('SketchyScene_eccv18')">abstract</a></strong> |
             <strong><a shape="rect" href="javascript:togglebib('SketchyScene_eccv')" class="togglebib">bibtex</a></strong> </p>
-            <p align="justify"> <i id="SketchyScene_eccv18"> We contribute the first large-scale dataset of scene sketches, SketchyScene, with the goal of advancing research on sketch understanding at both the object and scene level. The dataset is created through a novel and carefully designed crowdsourcing pipeline, enabling users to efficiently generate large quantities realistic and diverse scene sketches. SketchyScene contains more than 29,000 scene-level sketches, 7,000+ pairs of scene templates and photos, and 11,000+ object sketches. All objects in the scene sketches have ground-truth semantic and instance masks. The dataset is also highly scalable and extensible, easily allowing augmenting and/or changing scene composition. We demonstrate the potential impact of SketchyScene by training new computational models for semantic segmentation of scene sketches and showing how the new dataset enables several applications including image retrieval, sketch colorization, editing, and captioning, etc. </i></p>
+            <p align="justify"> <i id="SketchyScene_eccv18"> We contribute the first large-scale dataset of scene
+                sketches, SketchyScene, with the goal of advancing research on sketch understanding at both the object
+                and scene level. The dataset is created through a novel and carefully designed crowdsourcing pipeline,
+                enabling users to efficiently generate large quantities realistic and diverse scene sketches.
+                SketchyScene contains more than 29,000 scene-level sketches, 7,000+ pairs of scene templates and photos,
+                and 11,000+ object sketches. All objects in the scene sketches have ground-truth semantic and instance
+                masks. The dataset is also highly scalable and extensible, easily allowing augmenting and/or changing
+                scene composition. We demonstrate the potential impact of SketchyScene by training new computational
+                models for semantic segmentation of scene sketches and showing how the new dataset enables several
+                applications including image retrieval, sketch colorization, editing, and captioning, etc. </i></p>
             <pre xml:space="preserve" style="display: none;">
 @inproceedings{ZouSketchyScene,
   author    = {Changqing Zou and
@@ -265,6 +324,7 @@ hideallbibs();
 </script>
 <script xml:space="preserve" language="JavaScript">
 hideblock('SketchyScene_eccv18');
+hideblock('LUCSS_18');
 </script>
 
 
