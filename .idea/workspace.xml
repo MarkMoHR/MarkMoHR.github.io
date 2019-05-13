@@ -15,26 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-506">
-              <caret line="208" column="18" lean-forward="true" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
+            <state relative-caret-position="-2948">
+              <caret line="213" column="35" selection-start-line="213" selection-start-column="35" selection-end-line="213" selection-end-column="35" />
               <folding>
-                <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume/resume.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-715">
-              <caret line="270" column="62" selection-start-line="270" selection-start-column="62" selection-end-line="270" selection-end-column="62" />
-              <folding>
-                <element signature="e#4256#4262#1" expanded="true" />
-                <element signature="e#4898#4904#1" expanded="true" />
+                <element signature="e#4849#4855#1" expanded="true" />
+                <element signature="e#5478#5484#1" expanded="true" />
+                <element signature="e#6999#7005#1" expanded="true" />
+                <element signature="e#7491#7497#1" expanded="true" />
+                <element signature="e#7584#7590#1" expanded="true" />
+                <element signature="e#8094#8100#1" expanded="true" />
+                <element signature="e#9953#9959#1" expanded="true" />
+                <element signature="e#10695#10701#1" expanded="true" />
+                <element signature="e#10845#10851#1" expanded="true" />
+                <element signature="e#11718#11724#1" expanded="true" />
+                <element signature="e#13922#13928#0" expanded="true" />
+                <element signature="e#13929#13935#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +55,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resume/resume.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -74,22 +72,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MyGithubPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyGithubPage" type="462c0819:PsiDirectoryNode" />
+              <item name="MarkMoHR.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarkMoHR.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarkMoHR.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarkMoHR.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SkeCartoonGAN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sketch-photo2seq" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RunDashboard">
@@ -146,22 +149,141 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5500">
-          <caret line="250" column="66" selection-start-line="250" selection-start-column="66" selection-end-line="250" selection-end-column="66" />
+        <state relative-caret-position="5170">
+          <caret line="235" column="18" lean-forward="true" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4849#4855#1" expanded="true" />
+            <element signature="e#5478#5484#1" expanded="true" />
+            <element signature="e#6999#7005#1" expanded="true" />
+            <element signature="e#7491#7497#1" expanded="true" />
+            <element signature="e#7584#7590#1" expanded="true" />
+            <element signature="e#8094#8100#1" expanded="true" />
+            <element signature="e#9953#9959#1" expanded="true" />
+            <element signature="e#10695#10701#1" expanded="true" />
+            <element signature="e#10845#10851#1" expanded="true" />
+            <element signature="e#11718#11724#1" expanded="true" />
+            <element signature="e#13922#13928#0" expanded="true" />
+            <element signature="e#13929#13935#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6886">
-          <caret line="313" column="80" selection-start-line="313" selection-start-column="80" selection-end-line="313" selection-end-column="80" />
+        <state relative-caret-position="5038">
+          <caret line="229" column="5" selection-start-line="226" selection-end-line="229" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4994">
+          <caret line="227" column="50" selection-start-line="227" selection-start-column="50" selection-end-line="227" selection-end-column="50" />
           <folding>
-            <element signature="e#4256#4262#1" expanded="true" />
-            <element signature="e#4898#4904#1" expanded="true" />
+            <element signature="e#4849#4855#1" expanded="true" />
+            <element signature="e#5478#5484#1" expanded="true" />
+            <element signature="e#6999#7005#1" expanded="true" />
+            <element signature="e#7491#7497#1" expanded="true" />
+            <element signature="e#7584#7590#1" expanded="true" />
+            <element signature="e#8094#8100#1" expanded="true" />
+            <element signature="e#9953#9959#1" expanded="true" />
+            <element signature="e#10695#10701#1" expanded="true" />
+            <element signature="e#10845#10851#1" expanded="true" />
+            <element signature="e#11718#11724#1" expanded="true" />
+            <element signature="e#13922#13928#0" expanded="true" />
+            <element signature="e#13929#13935#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5038">
+          <caret line="229" column="5" selection-start-line="226" selection-end-line="229" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4994">
+          <caret line="227" column="50" selection-start-line="227" selection-start-column="50" selection-end-line="227" selection-end-column="50" />
+          <folding>
+            <element signature="e#4849#4855#1" expanded="true" />
+            <element signature="e#5478#5484#1" expanded="true" />
+            <element signature="e#6999#7005#1" expanded="true" />
+            <element signature="e#7491#7497#1" expanded="true" />
+            <element signature="e#7584#7590#1" expanded="true" />
+            <element signature="e#8094#8100#1" expanded="true" />
+            <element signature="e#9953#9959#1" expanded="true" />
+            <element signature="e#10695#10701#1" expanded="true" />
+            <element signature="e#10845#10851#1" expanded="true" />
+            <element signature="e#11718#11724#1" expanded="true" />
+            <element signature="e#13922#13928#0" expanded="true" />
+            <element signature="e#13929#13935#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5038">
+          <caret line="229" column="5" selection-start-line="226" selection-end-line="229" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5016">
+          <caret line="228" column="61" selection-start-line="228" selection-start-column="61" selection-end-line="228" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5038">
+          <caret line="229" column="5" selection-start-line="226" selection-end-line="229" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5016">
+          <caret line="228" column="61" selection-start-line="228" selection-start-column="61" selection-end-line="228" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5038">
+          <caret line="229" column="5" lean-forward="true" selection-start-line="226" selection-end-line="229" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="208" column="18" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="270" column="62" selection-start-line="270" selection-start-column="62" selection-end-line="270" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="208" column="18" lean-forward="true" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="270" column="62" selection-start-line="270" selection-start-column="62" selection-end-line="270" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -169,9 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5500">
           <caret line="250" column="66" selection-start-line="250" selection-start-column="66" selection-end-line="250" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -179,10 +298,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6886">
           <caret line="313" column="80" selection-start-line="313" selection-start-column="80" selection-end-line="313" selection-end-column="80" />
-          <folding>
-            <element signature="e#4256#4262#1" expanded="true" />
-            <element signature="e#4898#4904#1" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5500">
+          <caret line="250" column="66" selection-start-line="250" selection-start-column="66" selection-end-line="250" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6886">
+          <caret line="313" column="80" selection-start-line="313" selection-start-column="80" selection-end-line="313" selection-end-column="80" />
         </state>
       </provider>
     </entry>
@@ -190,9 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4686">
           <caret line="213" column="44" selection-start-line="213" selection-start-column="44" selection-end-line="213" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -200,10 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6886">
           <caret line="313" column="80" selection-start-line="313" selection-start-column="80" selection-end-line="313" selection-end-column="80" />
-          <folding>
-            <element signature="e#4256#4262#1" expanded="true" />
-            <element signature="e#4898#4904#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -211,9 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6028">
           <caret line="274" column="9" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -221,10 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6886">
           <caret line="313" column="80" lean-forward="true" selection-start-line="313" selection-start-column="80" selection-end-line="313" selection-end-column="80" />
-          <folding>
-            <element signature="e#4256#4262#1" expanded="true" />
-            <element signature="e#4898#4904#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -232,9 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6028">
           <caret line="274" column="9" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -249,9 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6028">
           <caret line="274" column="9" lean-forward="true" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -266,9 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3542">
           <caret line="161" column="27" lean-forward="true" selection-start-line="161" selection-start-column="27" selection-end-line="161" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -276,9 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -286,9 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -296,9 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4774">
           <caret line="217" column="65" lean-forward="true" selection-start-line="217" selection-start-column="65" selection-end-line="217" selection-end-column="65" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -306,9 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3784">
           <caret line="172" column="82" selection-start-line="172" selection-start-column="82" selection-end-line="172" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -418,23 +512,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="208" column="18" lean-forward="true" selection-start-line="208" selection-start-column="18" selection-end-line="208" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-92">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/resume.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-715">
-          <caret line="270" column="62" selection-start-line="270" selection-start-column="62" selection-end-line="270" selection-end-column="62" />
+        <state relative-caret-position="-2948">
+          <caret line="213" column="35" selection-start-line="213" selection-start-column="35" selection-end-line="213" selection-end-column="35" />
           <folding>
-            <element signature="e#4256#4262#1" expanded="true" />
-            <element signature="e#4898#4904#1" expanded="true" />
+            <element signature="e#4849#4855#1" expanded="true" />
+            <element signature="e#5478#5484#1" expanded="true" />
+            <element signature="e#6999#7005#1" expanded="true" />
+            <element signature="e#7491#7497#1" expanded="true" />
+            <element signature="e#7584#7590#1" expanded="true" />
+            <element signature="e#8094#8100#1" expanded="true" />
+            <element signature="e#9953#9959#1" expanded="true" />
+            <element signature="e#10695#10701#1" expanded="true" />
+            <element signature="e#10845#10851#1" expanded="true" />
+            <element signature="e#11718#11724#1" expanded="true" />
+            <element signature="e#13922#13928#0" expanded="true" />
+            <element signature="e#13929#13935#0" expanded="true" />
           </folding>
         </state>
       </provider>
