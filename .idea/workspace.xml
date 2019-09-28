@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/hongyadong.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/sichuan/hongyadong.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/sichuan/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/sichuan/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/panda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/sichuan/panda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/2019waseda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/2019waseda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/food.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/food.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/food2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/food2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/ginza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/ginza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/huima.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/huima.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/kyoto1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/kyoto1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/kyoto2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/kyoto2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/meji.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/meji.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/nara.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/nara.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/osaka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/osaka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/qiancao.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/qiancao.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/station.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/station.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/takadanobaba.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/takadanobaba.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/tokyotower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/tokyotower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-cam.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/waseda-cam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-day.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/waseda-day.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-night.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/waseda-night.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/yourname.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/gallery/tokyo/yourname.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,34 +39,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="408" column="30" selection-start-line="408" selection-start-column="23" selection-end-line="408" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#16158#16164#0" expanded="true" />
-                <element signature="e#16165#16171#0" expanded="true" />
-                <element signature="e#16684#16690#0" expanded="true" />
-                <element signature="e#16691#16697#0" expanded="true" />
-                <element signature="e#16698#16704#0" expanded="true" />
-                <element signature="e#16705#16711#0" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="382" column="39" selection-start-line="382" selection-start-column="39" selection-end-line="382" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="342" column="31" selection-start-line="342" selection-start-column="31" selection-end-line="342" selection-end-column="31" />
               <folding>
-                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#6085#6091#0" expanded="true" />
               </folding>
             </state>
@@ -62,7 +66,12 @@
       <find>hideblock</find>
       <find>id=&quot;SIGA_19&quot;</find>
       <find>img</find>
+      <find>&quot;files</find>
+      <find>!</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,6 +106,16 @@
             <path>
               <item name="MarkMoHR.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MarkMoHR.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarkMoHR.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarkMoHR.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarkMoHR.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarkMoHR.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,6 +159,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18806128" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
@@ -153,7 +173,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -490,15 +509,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="1491">
           <caret line="205" column="13" selection-start-line="205" selection-start-column="13" selection-end-line="205" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="408" column="30" selection-start-line="408" selection-start-column="23" selection-end-line="408" selection-end-column="30" />
+        <state relative-caret-position="4175">
+          <caret line="315" column="39" selection-start-line="315" selection-start-column="39" selection-end-line="315" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -515,11 +534,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="382" column="39" selection-start-line="382" selection-start-column="39" selection-end-line="382" selection-end-column="39" />
+        <state relative-caret-position="225">
+          <caret line="342" column="31" selection-start-line="342" selection-start-column="31" selection-end-line="342" selection-end-column="31" />
           <folding>
-            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
             <element signature="e#6085#6091#0" expanded="true" />
           </folding>
         </state>
