@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="421" column="159" selection-start-line="421" selection-start-column="159" selection-end-line="421" selection-end-column="159" />
+            <state relative-caret-position="281">
+              <caret line="421" column="157" selection-start-line="421" selection-start-column="157" selection-end-line="421" selection-end-column="157" />
               <folding>
                 <element signature="e#4903#4909#1" expanded="true" />
                 <element signature="e#5532#5538#1" expanded="true" />
@@ -511,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="421" column="159" selection-start-line="421" selection-start-column="159" selection-end-line="421" selection-end-column="159" />
+        <state relative-caret-position="281">
+          <caret line="421" column="157" selection-start-line="421" selection-start-column="157" selection-end-line="421" selection-end-column="157" />
           <folding>
             <element signature="e#4903#4909#1" expanded="true" />
             <element signature="e#5532#5538#1" expanded="true" />
