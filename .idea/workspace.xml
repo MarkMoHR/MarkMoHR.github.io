@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="421" column="157" selection-start-line="421" selection-start-column="157" selection-end-line="421" selection-end-column="157" />
+            <state relative-caret-position="457">
+              <caret line="414" column="4" lean-forward="true" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="4" />
               <folding>
                 <element signature="e#4903#4909#1" expanded="true" />
                 <element signature="e#5532#5538#1" expanded="true" />
@@ -31,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1777">
-              <caret line="476" lean-forward="true" selection-start-line="476" selection-end-line="476" />
+            <state relative-caret-position="434">
+              <caret line="422" column="33" selection-start-line="422" selection-start-column="33" selection-end-line="422" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -60,11 +61,13 @@
       <find>CDN-for-gallery</find>
       <find>CDN-for-gallery@1.0</find>
       <find>CDN-for-gallery@1.1</find>
+      <find>CDN-for-gallery@1.2</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
       <replace>CDN-for-gallery@1.1</replace>
       <replace>CDN-for-gallery@1.2</replace>
+      <replace>CDN-for-gallery@1.3</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -75,8 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
         <option value="$PROJECT_DIR$/resume/resume.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -503,17 +506,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1777">
-          <caret line="476" lean-forward="true" selection-start-line="476" selection-end-line="476" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="421" column="157" selection-start-line="421" selection-start-column="157" selection-end-line="421" selection-end-column="157" />
+        <state relative-caret-position="457">
+          <caret line="414" column="4" lean-forward="true" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="4" />
           <folding>
             <element signature="e#4903#4909#1" expanded="true" />
             <element signature="e#5532#5538#1" expanded="true" />
@@ -522,6 +518,13 @@
             <element signature="e#17559#17565#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="422" column="33" selection-start-line="422" selection-start-column="33" selection-end-line="422" selection-end-column="33" />
         </state>
       </provider>
     </entry>
