@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ECCV18/sketchyscene.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/LUCSS/teaser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/SIGA19/colorization.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/hongyadong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/p1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/p2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/sichuan/panda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/2019waseda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/food.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/food2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/ginza.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/huima.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/kyoto1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/kyoto2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/meji.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/nara.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/osaka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/qiancao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/shinjuku2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/station.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/takadanobaba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/tokyotower.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-cam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-day.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/waseda-night.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/gallery/tokyo/yourname.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/misc/haoran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/misc/haoran2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,22 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5423">
-              <caret line="250" selection-start-line="250" selection-end-line="250" />
-              <folding>
-                <element signature="e#4903#4909#1" expanded="true" />
-                <element signature="e#5532#5538#1" expanded="true" />
-                <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/resume.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,8 +40,8 @@
       <file leaf-file-name="hobby.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hobby.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7456">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="288">
+              <caret line="350" column="13" lean-forward="true" selection-start-line="350" selection-start-column="13" selection-end-line="350" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -586,8 +537,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hobby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7456">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="288">
+          <caret line="350" column="13" lean-forward="true" selection-start-line="350" selection-start-column="13" selection-end-line="350" selection-end-column="13" />
         </state>
       </provider>
     </entry>
