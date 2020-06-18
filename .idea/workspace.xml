@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,29 +13,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="421" column="314" selection-start-line="421" selection-start-column="314" selection-end-line="421" selection-end-column="314" />
+            <state relative-caret-position="347">
+              <caret line="194" column="126" lean-forward="true" selection-start-line="194" selection-start-column="126" selection-end-line="194" selection-end-column="126" />
               <folding>
                 <element signature="e#4903#4909#1" expanded="true" />
                 <element signature="e#5532#5538#1" expanded="true" />
                 <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hobby.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hobby.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-550">
-              <caret line="305" column="91" selection-start-line="305" selection-start-column="72" selection-end-line="305" selection-end-column="91" />
-              <folding>
-                <element signature="e#8710#8716#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,6 +60,8 @@
       <find>https://img9.doubanio.com/view/photo/s_ratio_poster/public</find>
       <find>https://img1.doubanio.com/view/photo/s_ratio_poster/public</find>
       <find>CDN-for-gallery@1.4</find>
+      <find>CDN-for-gallery@1.5</find>
+      <find>hongkong</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -85,6 +71,7 @@
       <replace>CDN-for-gallery@1.4</replace>
       <replace>https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.4/files/hobby</replace>
       <replace>CDN-for-gallery@1.5</replace>
+      <replace>CDN-for-gallery@1.6</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -96,8 +83,8 @@
         <option value="$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
         <option value="$PROJECT_DIR$/resume/resume.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/hobby.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -527,26 +514,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hobby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="343" column="53" selection-start-line="343" selection-start-column="53" selection-end-line="343" selection-end-column="53" />
+          <folding>
+            <element signature="e#8710#8716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="421" column="314" selection-start-line="421" selection-start-column="314" selection-end-line="421" selection-end-column="314" />
+        <state relative-caret-position="347">
+          <caret line="194" column="126" lean-forward="true" selection-start-line="194" selection-start-column="126" selection-end-line="194" selection-end-column="126" />
           <folding>
             <element signature="e#4903#4909#1" expanded="true" />
             <element signature="e#5532#5538#1" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#div#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hobby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="305" column="91" selection-start-line="305" selection-start-column="72" selection-end-line="305" selection-end-column="91" />
-          <folding>
-            <element signature="e#8710#8716#0" expanded="true" />
           </folding>
         </state>
       </provider>
