@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="440" column="29" selection-start-line="440" selection-start-column="29" selection-end-line="440" selection-end-column="29" />
+            <state relative-caret-position="8921">
+              <caret line="451" column="6" lean-forward="true" selection-start-line="451" selection-start-column="6" selection-end-line="451" selection-end-column="6" />
               <folding>
                 <element signature="e#4903#4909#1" expanded="true" />
                 <element signature="e#5788#5794#1" expanded="true" />
@@ -44,7 +44,6 @@
       <find>CDN-for-gallery@1.0</find>
       <find>CDN-for-gallery@1.1</find>
       <find>CDN-for-gallery@1.2</find>
-      <find>content</find>
       <find>files</find>
       <find>ECCV18</find>
       <find>gallery</find>
@@ -60,6 +59,7 @@
       <find>CDN-for-gallery@1.6</find>
       <find>github.io</find>
       <find>sysu-imsl</find>
+      <find>content</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -520,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="440" column="29" selection-start-line="440" selection-start-column="29" selection-end-line="440" selection-end-column="29" />
+        <state relative-caret-position="8921">
+          <caret line="451" column="6" lean-forward="true" selection-start-line="451" selection-start-column="6" selection-end-line="451" selection-end-column="6" />
           <folding>
             <element signature="e#4903#4909#1" expanded="true" />
             <element signature="e#5788#5794#1" expanded="true" />
