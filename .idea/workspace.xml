@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8921">
-              <caret line="451" column="6" lean-forward="true" selection-start-line="451" selection-start-column="6" selection-end-line="451" selection-end-column="6" />
-              <folding>
-                <element signature="e#4903#4909#1" expanded="true" />
-                <element signature="e#5788#5794#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="173" column="25" lean-forward="true" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -30,7 +29,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>analytics</find>
       <find>heading</find>
       <find>0077FE</find>
       <find>63B6B5</find>
@@ -60,6 +58,7 @@
       <find>github.io</find>
       <find>sysu-imsl</find>
       <find>content</find>
+      <find>CDN-for-gallery@1.9</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -71,6 +70,7 @@
       <replace>CDN-for-gallery@1.5</replace>
       <replace>CDN-for-gallery@1.6</replace>
       <replace>CDN-for-gallery@1.7</replace>
+      <replace>CDN-for-gallery@1.10</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -150,6 +150,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12572636" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
@@ -163,7 +164,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -507,25 +507,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hobby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="342" column="87" selection-start-line="342" selection-start-column="80" selection-end-line="342" selection-end-column="87" />
-          <folding>
-            <element signature="e#5457#5463#1" expanded="true" />
-            <element signature="e#6230#6236#1" expanded="true" />
-            <element signature="e#8859#8865#0" expanded="true" />
-            <element signature="e#14341#14347#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="149">
+          <caret line="375" column="9" lean-forward="true" selection-start-line="375" selection-start-column="9" selection-end-line="375" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8921">
-          <caret line="451" column="6" lean-forward="true" selection-start-line="451" selection-start-column="6" selection-end-line="451" selection-end-column="6" />
-          <folding>
-            <element signature="e#4903#4909#1" expanded="true" />
-            <element signature="e#5788#5794#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="173" column="25" lean-forward="true" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
         </state>
       </provider>
     </entry>
