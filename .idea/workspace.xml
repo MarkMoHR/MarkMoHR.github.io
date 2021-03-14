@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="" />
+    <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/resume.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +20,8 @@
       <file leaf-file-name="hobby.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hobby.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="419" lean-forward="true" selection-start-line="419" selection-end-line="419" />
+            <state relative-caret-position="165">
+              <caret line="390" column="92" lean-forward="true" selection-start-line="390" selection-start-column="72" selection-end-line="390" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -24,8 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hoverZoomLink</find>
-      <find>hideblock</find>
       <find>id=&quot;SIGA_19&quot;</find>
       <find>img</find>
       <find>!</find>
@@ -54,6 +58,8 @@
       <find>2020</find>
       <find>CDN-for-gallery@1.12</find>
       <find>CDN-for-gallery@1.13</find>
+      <find>CDN-for-gallery@1.14</find>
+      <find>CDN-for-gallery@1.15</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -69,6 +75,8 @@
       <replace />
       <replace>CDN-for-gallery@1.13</replace>
       <replace>CDN-for-gallery@1.14</replace>
+      <replace>CDN-for-gallery@1.15</replace>
+      <replace>CDN-for-gallery@1.16</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -98,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +117,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hobby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="419" lean-forward="true" selection-start-line="419" selection-end-line="419" />
+        <state relative-caret-position="165">
+          <caret line="390" column="92" lean-forward="true" selection-start-line="390" selection-start-column="72" selection-end-line="390" selection-end-column="92" />
         </state>
       </provider>
     </entry>
