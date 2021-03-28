@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="hobby.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hobby.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="438" column="13" selection-start-line="438" selection-start-column="13" selection-end-line="438" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="293" column="42" selection-start-line="293" selection-start-column="42" selection-end-line="293" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -29,10 +29,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>id=&quot;SIGA_19&quot;</find>
-      <find>img</find>
-      <find>!</find>
-      <find>CDN-for-gallery</find>
       <find>CDN-for-gallery@1.0</find>
       <find>CDN-for-gallery@1.1</find>
       <find>CDN-for-gallery@1.2</find>
@@ -59,6 +55,10 @@
       <find>CDN-for-gallery@1.13</find>
       <find>CDN-for-gallery@1.14</find>
       <find>CDN-for-gallery@1.15</find>
+      <find>CDN-for-gallery@1.17</find>
+      <find>CDN-for-gallery@1.18</find>
+      <find>MarkMoHR/CDN-for-gallery@1.19/files/SIGA19</find>
+      <find>SketchColorization_paper_SA2019.pdf</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -76,6 +76,8 @@
       <replace>CDN-for-gallery@1.14</replace>
       <replace>CDN-for-gallery@1.15</replace>
       <replace>CDN-for-gallery@1.16</replace>
+      <replace>CDN-for-gallery@1.18</replace>
+      <replace>CDN-for-gallery@1.19</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -87,8 +89,8 @@
         <option value="$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
         <option value="$PROJECT_DIR$/resume/resume.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/hobby.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -510,17 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/hobby.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="446" column="28" selection-start-line="446" selection-start-column="25" selection-end-line="446" selection-end-column="28" />
+        <state relative-caret-position="233">
+          <caret line="431" column="103" selection-start-line="431" selection-start-column="103" selection-end-line="431" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hobby.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="438" column="13" selection-start-line="438" selection-start-column="13" selection-end-line="438" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="293" column="42" selection-start-line="293" selection-start-column="42" selection-end-line="293" selection-end-column="42" />
         </state>
       </provider>
     </entry>
