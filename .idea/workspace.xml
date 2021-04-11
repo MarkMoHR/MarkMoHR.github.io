@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="hobby.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hobby.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="293" column="42" selection-start-line="293" selection-start-column="42" selection-end-line="293" selection-end-column="42" />
+            <state relative-caret-position="171">
+              <caret line="405" lean-forward="true" selection-start-line="405" selection-end-line="405" />
             </state>
           </provider>
         </entry>
@@ -29,7 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CDN-for-gallery@1.0</find>
       <find>CDN-for-gallery@1.1</find>
       <find>CDN-for-gallery@1.2</find>
       <find>files</find>
@@ -59,6 +59,7 @@
       <find>CDN-for-gallery@1.18</find>
       <find>MarkMoHR/CDN-for-gallery@1.19/files/SIGA19</find>
       <find>SketchColorization_paper_SA2019.pdf</find>
+      <find>sketchyscene.png</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;https://cdn.jsdelivr.net/gh/MarkMoHR/CDN-for-gallery@1.0/files</replace>
@@ -89,8 +90,8 @@
         <option value="$PROJECT_DIR$/files/ECCV18/bibtex.txt" />
         <option value="$PROJECT_DIR$/resume/resume.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/hobby.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hobby.html" />
       </list>
     </option>
   </component>
@@ -107,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +119,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -507,22 +508,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="-1232">
           <caret line="196" column="91" selection-start-line="196" selection-start-column="91" selection-end-line="196" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hobby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="431" column="103" selection-start-line="431" selection-start-column="103" selection-end-line="431" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="293" column="42" selection-start-line="293" selection-start-column="42" selection-end-line="293" selection-end-column="42" />
+        <state relative-caret-position="594">
+          <caret line="252" column="46" selection-start-line="252" selection-start-column="46" selection-end-line="252" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hobby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="405" lean-forward="true" selection-start-line="405" selection-end-line="405" />
         </state>
       </provider>
     </entry>
