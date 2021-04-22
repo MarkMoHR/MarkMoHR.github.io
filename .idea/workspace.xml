@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="407" column="121" selection-start-line="407" selection-start-column="116" selection-end-line="407" selection-end-column="121" />
+            <state relative-caret-position="528">
+              <caret line="254" column="47" selection-start-line="254" selection-start-column="47" selection-end-line="254" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +117,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -520,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="407" column="121" selection-start-line="407" selection-start-column="116" selection-end-line="407" selection-end-column="121" />
+        <state relative-caret-position="528">
+          <caret line="254" column="47" selection-start-line="254" selection-start-column="47" selection-end-line="254" selection-end-column="47" />
         </state>
       </provider>
     </entry>
