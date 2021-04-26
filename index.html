@@ -272,7 +272,63 @@ strong a:active {
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
     <tr>
         <td width="20%" valign="top">
-            <a href="" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.1/files/SIGA19/colorization.png" alt="colorization" width="100%" border="1"></a>
+            <a href="https://markmohr.github.io/virtual_sketching/" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/SIG21/teaser6.png" alt="vectorization" width="100%" border="1"></a>
+        </td>
+        <td width="80%" valign="top">
+            <heading>General Virtual Sketching Framework for Vector Line Art</heading>
+            <br>
+            <p class="margin">&nbsp;</p>
+            <p class="content">
+                <strong>Haoran Mo</strong>,
+                <a href="https://esslab.jp/~ess/en/">Edgar Simo-Serra</a>,
+                <a href="http://sdcs.sysu.edu.cn/content/2537">Chengying Gao*</a>,
+                <a href="https://changqingzou.weebly.com/">Changqing Zou</a> and
+                <a href="http://sdcs.sysu.edu.cn/content/2523">Ruomei Wang</a>
+            </p>
+            <p class="margin-small">&nbsp;</p>
+            <p class="content"><em>ACM Transactions on Graphics (Proceedings of ACM <strong>SIGGRAPH 2021</strong>)</em>
+            <p class="margin">&nbsp;</p>
+
+            <div class="paper" id="SIG21">
+            <p class="content">
+            <strong><a href="https://markmohr.github.io/virtual_sketching/">Project Page</a></strong> |
+            <strong><a href="">Paper (TBD)</a></strong> |
+            <strong><a href="">Supplementary (TBD)</a></strong> |
+            <strong><a href="https://github.com/MarkMoHR/virtual_sketching">Code</a></strong> |
+            <strong><a href="javascript:toggleblock('SIG_21')">Abstract</a></strong> |
+            <strong><a shape="rect" href="javascript:togglebib('SIG21')" class="togglebib">Bibtex</a></strong>
+            </p>
+            <p class="margin">&nbsp;</p>
+            <p align="justify" id="SIG_21">
+                Vector line art plays an important role in graphic design, however, it is tedious to manually create.
+                We introduce a general framework to produce line drawings from a wide variety of images,
+                by learning a mapping from raster image space to vector image space.
+                Our approach is based on a recurrent neural network that draws the lines one by one.
+                A differentiable rasterization module allows for training with only supervised raster data.
+                We use a dynamic window around a virtual pen while drawing lines,
+                implemented with a proposed aligned cropping and differentiable pasting modules.
+                Furthermore, we develop a stroke regularization loss that encourages the model
+                to use fewer and longer strokes to simplify the resulting vector image.
+                Ablation studies and comparisons with existing methods corroborate the efficiency of our approach
+                which is able to generate visually better results in less computation time,
+                while generalizing better to a diversity of images and applications.
+            </p>
+            <pre xml:space="preserve" style="display: none;">
+@article{mo2021virtualsketching,
+  title   = {General Virtual Sketching Framework for Vector Line Art},
+  author  = {Mo, Haoran and Simo-Serra, Edgar and Gao, Chengying and Zou, Changqing and Wang, Ruomei},
+  journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2021)},
+  year    = {2021}
+}
+            </pre>
+            </div>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td width="20%" valign="top">
+            <a href="https://sketchyscene.github.io/SketchySceneColorization/" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/SIGA19/colorization.png" alt="colorization" width="100%" border="1"></a>
         </td>
         <td width="80%" valign="top">
             <heading>Language-based Colorization of Scene Sketches</heading>
@@ -286,7 +342,7 @@ strong a:active {
                 <a href="http://sweb.cityu.edu.hk/hongbofu/">Hongbo Fu</a>
             </p>
             <p class="margin-small">&nbsp;</p>
-            <p class="content"><em>ACM Transactions on Graphics (Proceedings of ACM <strong>SIGGRAPH Asia</strong> 2019)</em>
+            <p class="content"><em>ACM Transactions on Graphics (Proceedings of ACM <strong>SIGGRAPH Asia 2019</strong>)</em>
             <p class="margin">&nbsp;</p>
 
             <div class="paper" id="SIGA19">
@@ -316,13 +372,13 @@ strong a:active {
                 system, benefiting various applications. </p>
             <pre xml:space="preserve" style="display: none;">
 @article{zouSA2019sketchcolorization,
-  title = {Language-based Colorization of Scene Sketches},
-  author = {Zou, Changqing and Mo, Haoran and Gao, Chengying and Du, Ruofei and Fu, Hongbo},
+  title   = {Language-based Colorization of Scene Sketches},
+  author  = {Zou, Changqing and Mo, Haoran and Gao, Chengying and Du, Ruofei and Fu, Hongbo},
   journal = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH Asia 2019)},
-  year = {2019},
-  volume = 38,
-  number = 6,
-  pages = {233:1--233:16}
+  year    = {2019},
+  volume  = 38,
+  number  = 6,
+  pages   = {233:1--233:16}
 }
             </pre>
             </div>
@@ -332,7 +388,7 @@ strong a:active {
 
     <tr>
         <td width="20%" valign="top">
-            <a href="https://sketchyscene.github.io/SketchyScene/" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.1/files/ECCV18/sketchyscene.png" alt="SketchyScene_eccv18" width="100%" border="1"></a>
+            <a href="https://sketchyscene.github.io/SketchyScene/" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/ECCV18/sketchyscene.png" alt="SketchyScene_eccv18" width="100%" border="1"></a>
         </td>
         <td width="80%" valign="top">
             <heading>SketchyScene: Richly-Annotated Scene Sketches</heading>
@@ -350,7 +406,7 @@ strong a:active {
                 <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
             </p>
             <p class="margin-small">&nbsp;</p>
-            <p class="content"><em><a href="https://eccv2018.org/" class="content">European Conference on Computer Vision</a> (<strong>ECCV</strong>)</em>, 2018
+            <p class="content"><em><a href="https://eccv2018.org/" class="content">European Conference on Computer Vision</a> (<strong>ECCV 2018</strong>)</em>
             <p class="margin">&nbsp;</p>
 
             <div class="paper" id="SketchyScene_eccv">
@@ -387,9 +443,9 @@ strong a:active {
   booktitle = {ECCV},
   year      = {2018},
   publisher = {Springer International Publishing},
-  pages		= {438--454},
-  doi		= {10.1007/978-3-030-01267-0_26},
-  url		= {https://github.com/SketchyScene/SketchyScene}
+  pages     = {438--454},
+  doi       = {10.1007/978-3-030-01267-0_26},
+  url       = {https://github.com/SketchyScene/SketchyScene}
 }
             </pre>
             </div>
@@ -405,7 +461,7 @@ strong a:active {
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
     <tr>
         <td width="13%" valign="top">
-            <a href="" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.1/files/home/waseda.png" alt="waseda" width="100%" border="1"></a>
+            <a href="https://www.waseda.jp/top/en" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/home/waseda.png" alt="waseda" width="100%" border="0"></a>
         </td>
         <td width="87%" valign="top">
             <p class="content">
@@ -428,7 +484,7 @@ strong a:active {
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
     <tr>
         <td width="13%" valign="top">
-            <a href="" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.1/files/home/sa2019.png" alt="sa2019" width="100%" border="1"></a>
+            <a href="https://sa2019.siggraph.org/" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/home/sa2019.png" alt="sa2019" width="100%" border="1"></a>
         </td>
         <td width="87%" valign="top">
             <p class="content">
@@ -453,7 +509,7 @@ strong a:active {
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
     <tr>
         <td width="13%" valign="top">
-            <a href="" class="hoverZoomLink"><img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.1/files/home/guangdong2.jpg" alt="guangdong" width="100%" border="1"></a>
+            <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.2/files/home/guangdong2.jpg" alt="guangdong" width="100%" border="0">
         </td>
         <td width="87%" valign="top">
             <p class="content">Welcome to view my <strong><a href="gallery.html">gallery</a></strong>. I am a local Cantonese and an enthusiast for <strong><a href="https://music.163.com/#/playlist?id=3115425625&userid=396273648">Cantonese Pop Music</a></strong> and <strong><a href="hobby.html">Hong Kong films and TV series</a></strong> :)</p>
@@ -491,6 +547,7 @@ hideallbibs();
 <script xml:space="preserve" language="JavaScript">
 hideblock('SketchyScene_eccv18');
 hideblock('SIGA_19');
+hideblock('SIG_21');
 </script>
 
 
