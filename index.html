@@ -312,6 +312,7 @@ strong a:active {
 
 <p id="sect-news" class="title-large">News</p>
 <ul>
+    <li><p class="content">Aug. 2021: One paper is accepted by <strong><a href="https://pg2021.org/" class="content">Pacific Graphics 2021</a></strong>.</p></li>
     <li><p class="content">Aug. 2021: Awarded the <strong><a href="http://games-cn.org/2021-5/" class="content">2021年度 “时谛智能CAD&CG优秀学生奖”</a></strong>.</p></li>
     <li><p class="content">Apr. 2021: One paper is accepted by <strong><a href="https://s2021.siggraph.org/" class="content">SIGGRAPH 2021</a></strong>.</p></li>
     <li><p class="content">Nov. 2019: Attended SIGGRAPH Asia 2019 in Brisbane, Australia and gave a talk of our paper.</p></li>
@@ -335,7 +336,7 @@ strong a:active {
     <tr>
         <td width="340" valign="top">
             <a href="https://markmohr.github.io/virtual_sketching/" class="hoverZoomLink">
-                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/SIG21/gifs/clean/muten-fast.gif" alt="vectorization" width="340" border="1">
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/SIG21/gifs/clean/muten-fast.gif" alt="vectorization" width="340" border="1">
             </a>
         </td>
         <td width="1200" valign="middle">
@@ -390,11 +391,66 @@ strong a:active {
         </td>
     </tr>
 
+    <tr>
+        <td width="340" valign="top">
+            <a href="" class="hoverZoomLink">
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/PG2021/colorization-PG2021.png" alt="colorization-PG2021" width="340" border="1">
+            </a>
+        </td>
+        <td width="1200" valign="middle">
+            <heading>Line Art Colorization Based on Explicit Region Segmentation</heading>
+            <br>
+            <p class="margin">&nbsp;</p>
+            <p class="content">
+                <a href="https://github.com/Ricardo-L-C">Ruizhi Cao</a>,
+                <strong>Haoran Mo</strong> and
+                <a href="http://cse.sysu.edu.cn/content/2537">Chengying Gao*</a>
+            </p>
+            <p class="margin-small">&nbsp;</p>
+            <span class="content-bg"><em>Computer Graphics Forum (<strong>Pacific Graphics 2021</strong>)</em></span>
+            <p class="margin">&nbsp;</p>
+
+            <div class="paper" id="PG2021">
+            <a href="" class="mybutton">Paper</a>
+            <a href="" class="mybutton">Supplementary</a>
+            <a href="https://github.com/Ricardo-L-C/ColorizationWithRegion" class="mybutton">Code</a>
+            <a href="javascript:toggleblock('PG_21')" class="mybutton">Abstract</a>
+            <a href="javascript:togglebib('PG2021')" class="mybutton">Bibtex</a>
+            <p class="margin">&nbsp;</p>
+            <p class="content3" id="PG_21">
+                Automatic line art colorization plays an important role in anime and comic industry.
+                While existing methods for line art colorization are able to generate plausible colorized results,
+                they tend to suffer from the color bleeding issue.
+                We introduce an explicit segmentation fusion mechanism to aid colorization frameworks in avoiding color bleeding artifacts.
+                This mechanism is able to provide region segmentation information for the colorization process explicitly
+                so that the colorization model can learn to avoid assigning the same color across regions with different semantics
+                or inconsistent colors inside an individual region.
+                The proposed mechanism is designed in a plug-and-play manner,
+                so it can be applied to a diversity of line art colorization frameworks with various kinds of user guidances.
+                We evaluate this mechanism in tag-based and reference-based line art colorization tasks
+                by incorporating it into the state-of-the-art models.
+                Comparisons with these existing models corroborate the effectiveness of our method which largely alleviates the color bleeding artifacts.
+            </p>
+            <pre xml:space="preserve" class="content4">
+@inproceedings{cao2021line,
+  title={Line Art Colorization Based on Explicit Region Segmentation},
+  author={Cao, Ruizhi and Mo, Haoran and Gao, Chengying},
+  booktitle={Computer Graphics Forum},
+  volume={40},
+  number={7},
+  year={2021},
+  organization={Wiley Online Library}
+}
+</pre>
+            </div>
+        </td>
+    </tr>
+
 
     <tr>
         <td width="340" valign="top">
             <a href="https://sketchyscene.github.io/SketchySceneColorization/" class="hoverZoomLink">
-                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/SIGA19/colorization2.png" alt="colorization" width="340" border="1">
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/SIGA19/colorization2.png" alt="colorization" width="340" border="1">
             </a>
         </td>
         <td width="1200" valign="middle">
@@ -403,7 +459,7 @@ strong a:active {
             <p class="margin">&nbsp;</p>
             <p class="content">
                 <a href="https://changqingzou.weebly.com/">Changqing Zou<sup>#</sup></a>,
-                <strong>Haoran Mo<sup>#</sup></strong> (joint first author),
+                <strong>Haoran Mo<sup>#</sup></strong>(equal contribution),
                 <a href="http://cse.sysu.edu.cn/content/2537">Chengying Gao*</a>,
                 <a href="http://www.duruofei.com/">Ruofei Du</a> and
                 <a href="http://sweb.cityu.edu.hk/hongbofu/">Hongbo Fu</a>
@@ -453,7 +509,7 @@ strong a:active {
     <tr>
         <td width="340" valign="top">
             <a href="https://sketchyscene.github.io/SketchyScene/" class="hoverZoomLink">
-                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/ECCV18/sketchyscene2.png" alt="SketchyScene_eccv18" width="340" border="1">
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/ECCV18/sketchyscene2.png" alt="SketchyScene_eccv18" width="340" border="1">
             </a>
         </td>
         <td width="1200" valign="middle">
@@ -524,7 +580,7 @@ strong a:active {
     <tr>
         <td width="220" valign="top">
             <a href="https://www.waseda.jp/top/en" class="hoverZoomLink">
-                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/home/waseda.png" alt="waseda" width="220" border="0"></a>
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/home/waseda.png" alt="waseda" width="220" border="0"></a>
         </td>
         <td width="1200" valign="top">
             <p class="content">
@@ -580,7 +636,7 @@ strong a:active {
     <tr>
         <td width="220" valign="top">
             <a href="https://sa2019.siggraph.org/" class="hoverZoomLink">
-                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/home/sa2019.png" alt="sa2019" width="220" border="1"></a>
+                <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/home/sa2019.png" alt="sa2019" width="220" border="1"></a>
         </td>
         <td width="1200" valign="top">
             <p class="content">
@@ -646,7 +702,7 @@ strong a:active {
 <table border="0" cellspacing="10">
     <tr>
         <td width="220" valign="top">
-            <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.5/files/home/guangdong2.jpg" alt="guangdong" width="220" border="0">
+            <img src="https://cdn.jsdelivr.net/gh/mark-cdn/CDN-for-works@1.6/files/home/guangdong2.jpg" alt="guangdong" width="220" border="0">
         </td>
         <td width="1200" valign="top">
             <p class="content">Welcome to view my <strong><a href="gallery.html">gallery</a></strong>. I am a local Cantonese and an enthusiast for <strong><a href="https://music.163.com/#/playlist?id=3115425625&userid=396273648">Cantonese Pop Music</a></strong> and <strong><a href="hobby.html">Hong Kong films and TV series</a></strong> :)</p>
@@ -685,6 +741,7 @@ hideallbibs();
 hideblock('SketchyScene_eccv18');
 hideblock('SIGA_19');
 hideblock('SIG_21');
+hideblock('PG_21');
 </script>
 
 
