@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Resume/Resume_Haoran_MO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Resume/Resume_Haoran_MO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +59,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="755" y="259" key="FileChooserDialogImpl/-3840.5.1536.844/0.0.2048.1112@0.0.2048.1112" timestamp="1628067622655" />
-    <state x="450" y="50" width="1208" height="942" key="find.popup" timestamp="1630381791071">
+    <state x="450" y="50" width="1208" height="942" key="find.popup" timestamp="1634095515618">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="450" y="50" width="1208" height="942" key="find.popup/-3840.5.1536.844/0.0.2048.1112@0.0.2048.1112" timestamp="1630381791071" />
+    <state x="450" y="50" width="1208" height="942" key="find.popup/-3840.5.1536.844/0.0.2048.1112@0.0.2048.1112" timestamp="1634095515618" />
   </component>
 </project>
