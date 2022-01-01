@@ -56,13 +56,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="259" key="FileChooserDialogImpl" timestamp="1628067622655">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="450" y="50" width="1208" height="936" key="find.popup" timestamp="1641025752745">
+      <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state x="755" y="259" key="FileChooserDialogImpl/-3840.5.1536.844/0.0.2048.1112@0.0.2048.1112" timestamp="1628067622655" />
-    <state x="450" y="50" width="1208" height="942" key="find.popup" timestamp="1635562999038">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
+    <state x="450" y="50" width="1208" height="936" key="find.popup/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1641025752745" />
     <state x="450" y="50" width="1208" height="942" key="find.popup/-3840.5.1536.844/0.0.2048.1112@0.0.2048.1112" timestamp="1635562999038" />
   </component>
 </project>
