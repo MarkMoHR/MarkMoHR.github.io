@@ -23,6 +23,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/html-test" />
@@ -55,13 +56,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="255" key="FileChooserDialogImpl" timestamp="1646711959038">
+    <state x="524" y="-1" width="1250" height="1067" key="find.popup" timestamp="1661419890541">
       <screen x="0" y="0" width="2048" height="1104" />
     </state>
-    <state x="755" y="255" key="FileChooserDialogImpl/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1646711959038" />
-    <state x="450" y="50" width="1208" height="936" key="find.popup" timestamp="1646744362313">
-      <screen x="0" y="0" width="2048" height="1104" />
-    </state>
-    <state x="450" y="50" width="1208" height="936" key="find.popup/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1646744362313" />
+    <state x="524" y="-1" width="1250" height="1067" key="find.popup/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1661419890541" />
+    <state x="393" y="110" width="937" height="596" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1660987457515" />
   </component>
 </project>
