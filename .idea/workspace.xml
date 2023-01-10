@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c8a54b0b-86ed-4129-8a0f-b0c120eba604" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/all_papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Resume/Resume_Haoran_MO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Resume/Resume_Haoran_MO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/hobby.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +17,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1sLtWjsCC2PudTmUUrr0DmRb0mb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/html-test" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/THINK/Documents/（）大学学习/研究生阶段/【A207服务器虚拟机管理】/lab_homepages/SYSU-IMSL.github.io",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,31 +62,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1862" height="918" key="DiffContextDialog" timestamp="1665110345549">
-      <screen x="0" y="0" width="2048" height="1104" />
-    </state>
-    <state x="93" y="93" width="1862" height="918" key="DiffContextDialog/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1665110345549" />
-    <state x="548" y="202" key="RollbackChangesDialog" timestamp="1668392194556">
-      <screen x="0" y="0" width="2048" height="1104" />
-    </state>
-    <state x="548" y="202" key="RollbackChangesDialog/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1668392194556" />
-    <state x="570" y="194" key="VCS.ChangeListViewerDialog" timestamp="1665110342524">
-      <screen x="0" y="0" width="2048" height="1104" />
-    </state>
-    <state x="570" y="194" key="VCS.ChangeListViewerDialog/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1665110342524" />
-    <state x="524" y="-1" width="1250" height="1067" key="find.popup" timestamp="1661419890541">
-      <screen x="0" y="0" width="2048" height="1104" />
-    </state>
-    <state x="524" y="-1" width="1250" height="1067" key="find.popup/-3840.5.1536.840/0.0.2048.1104@0.0.2048.1104" timestamp="1661419890541" />
-    <state x="393" y="110" width="937" height="596" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1660987457515" />
   </component>
 </project>
