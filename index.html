@@ -509,49 +509,45 @@ strong a:active {
 
     <tr>
         <td width="340" valign="top">
-            <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14938" class="hoverZoomLink">
-                <img src="./files/PG2023/pg2023.jpg" width="340" border="1">
+            <a href="" class="hoverZoomLink">
+                <img src="./files/ICME2024/editing.gif" alt="icme2024" width="340" border="1">
             </a>
         </td>
         <td width="1200" valign="middle">
-            <heading>Controllable Garment Image Synthesis Integrated with Frequency Domain Features</heading>
+            <heading>Text-based Vector Sketch Editing with Image Editing Diffusion Prior</heading>
             <br>
             <p class="margin">&nbsp;</p>
             <p class="content">
-                <a href="">Xinru Liang</a>,
-                <strong>Haoran Mo</strong> and
-                <a href="http://cse.sysu.edu.cn/content/2537">Chengying Gao*</a>
+                <strong>Haoran Mo</strong>,
+                <a href="http://cse.sysu.edu.cn/content/2537">Chengying Gao*</a> and
+                <a href="http://cse.sysu.edu.cn/content/2523">Ruomei Wang</a>
             </p>
             <p class="margin-small">&nbsp;</p>
-            <span class="content-bg"><em>Pacific Graphics (<strong>PG 2023</strong>)</em></span>
+            <span class="content-bg">
+                <em>IEEE International Conference on Multimedia & Expo (<strong>ICME 2024</strong>)</em>
+            </span>
             <em><strong><font color="#F56A6A">(CCF-B)</font></strong></em>
             <p class="margin">&nbsp;</p>
 
-            <div class="paper" id="PG2023">
-            <a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14938" class="mybutton">Paper</a>
-            <a href="javascript:toggleblock('PG_23')" class="mybutton">Abstract</a>
-            <a href="javascript:togglebib('PG2023')" class="mybutton">Bibtex</a>
+            <div class="paper" id="ICME24">
+            <a href="" class="mybutton">Project Page (TBD)</a>
+            <a href="" class="mybutton">Paper (TBD)</a>
+            <a href="" class="mybutton">Supplementary (TBD)</a>
+            <a href="" class="mybutton">Code (TBD)</a>
+            <a href="javascript:toggleblock('ICME_24')" class="mybutton">Abstract</a>
+            <a href="javascript:togglebib('ICME24')" class="mybutton">Bibtex</a>
             <p class="margin">&nbsp;</p>
-            <p class="content3" id="PG_23">
-                Using sketches and textures to synthesize garment images is able to conveniently display the realistic visual effect in the design phase,
-                which greatly increases the efficiency of fashion design.
-                Existing garment image synthesis methods from a sketch and a texture tend to fail in working on complex textures,
-                especially those with periodic patterns.
-                We propose a controllable garment image synthesis framework that takes as inputs an outline sketch and a texture patch
-                and generates garment images with complicated and diverse texture patterns.
-                To improve the performance of global texture expansion, we exploit the frequency domain features in the generative process,
-                which are from a Fast Fourier Transform (FFT) and able to represent the periodic information of the patterns.
-                We also introduce a perceptual loss in the frequency domain to measure the similarity of two texture pattern patches
-                in terms of their intrinsic periodicity and regularity.
-                Comparisons with existing approaches and sufficient ablation studies demonstrate the effectiveness of our method
-                that is capable of synthesizing impressive garment images with diverse texture patterns while guaranteeing proper texture expansion and pattern consistency.
+            <p class="content3" id="ICME_24">
+                We present a framework for text-based vector sketch editing to improve the efficiency of graphic design. The key idea behind the approach is to transfer the prior information from raster-level diffusion models, especially those from image editing methods, into the vector sketch-oriented task. The framework presents three editing modes and allows iterative editing. To meet the editing requirement of modifying the intended parts only while avoiding changing the other strokes, we introduce a stroke-level local editing scheme that automatically produces an editing mask reflecting locally editable regions and modifies strokes within the regions only. Comparisons with existing methods demonstrate the superiority of our approach.
             </p>
             <pre xml:space="preserve" class="content4">
-@inproceedings{liang2023controllable,
-  title={Controllable Garment Image Synthesis Integrated with Frequency Domain Features},
-  author={Liang, Xinru and Mo, Haoran and Gao, Chengying},
-  booktitle={Pacific Graphics},
-  year={2023}
+@inproceedings{mo2024text,
+  title={Text-based Vector Sketch Editing with Image Editing Diffusion Prior},
+  author={Mo, Haoran and Gao, Chengying and Wang, Ruomei},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
 }
 </pre>
             </div>
@@ -787,7 +783,7 @@ hideallbibs();
 hideblock('SIGA_19');
 hideblock('SIG_21');
 hideblock('TOG_24');
-hideblock('PG_23');
+hideblock('ICME_24');
 hideblock('PG_21');
 </script>
 
