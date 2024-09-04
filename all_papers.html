@@ -430,6 +430,55 @@ strong a:active {
         </td>
     </tr>
 
+    <tr>
+        <td width="340" valign="top">
+            <a href="" class="hoverZoomLink">
+                <img src="./files/PG2024/pg2024.jpg" width="340" style="border:1px solid rgb(200,200,200)">
+            </a>
+        </td>
+        <td width="1200" valign="middle">
+            <heading>Controllable Anime Image Editing via Probability of Attribute Tags</heading>
+            <br>
+            <p class="margin">&nbsp;</p>
+            <p class="content">
+                Zhenghao Song,
+                <strong>Haoran Mo</strong> and
+                <a href="http://cse.sysu.edu.cn/content/2537">Chengying Gao*</a>
+            </p>
+            <p class="margin-small">&nbsp;</p>
+            <span class="content-bg"><em>Computer Graphics Forum (<strong>Pacific Graphics 2024</strong>)</em></span>
+            <em><strong><font color="#F56A6A">(CCF-B)</font></strong></em>
+            <p class="margin">&nbsp;</p>
+
+            <div class="paper" id="PG2024">
+            <a href="" class="mybutton">Paper</a>
+            <a href="https://github.com/Songdp-zh/Controllable-Anime-Image-Editing" class="mybutton">Code</a>
+            <a href="javascript:toggleblock('PG_24')" class="mybutton">Abstract</a>
+            <a href="javascript:togglebib('PG2024')" class="mybutton">Bibtex</a>
+            <p class="margin">&nbsp;</p>
+            <p class="content3" id="PG_24">
+                Editing anime images via probabilities of attribute tags allows controlling the degree of the manipulation in an intuitive and convenient manner.
+                Existing methods fall short in the progressive modification and preservation of unintended regions in the input image.
+                We propose a controllable anime image editing framework based on adjusting the tag probabilities,
+                in which a probability encoding network (PEN) is developed to encode the probabilities into features that capture continuous characteristic of the probabilities.
+                Thus, the encoded features are able to direct the generative process of a pre-trained diffusion model and facilitate the linear manipulation.
+                We also introduce a local editing module that automatically identifies the intended regions and constrains the edits to be applied to those regions only,
+                which preserves the others unchanged.
+                Comprehensive comparisons with existing methods indicate the effectiveness of our framework in both one-shot and linear editing modes.
+                Results in additional applications further demonstrate the generalization ability of our approach.
+            </p>
+            <pre xml:space="preserve" class="content4">
+@inproceedings{song2024controllable,
+  title={Controllable Anime Image Editing via Probability of Attribute Tags},
+  author={Song, Zhenghao and Mo, Haoran and Gao, Chengying},
+  booktitle={Pacific Graphics},
+  year={2024}
+}
+</pre>
+            </div>
+        </td>
+    </tr>
+
 </table>
 
 
@@ -870,6 +919,7 @@ hideblock('PG_23');
 hideblock('TOG_24');
 hideblock('ICME_24');
 hideblock('ICME_24_ani');
+hideblock('PG_24');
 </script>
 
 
