@@ -307,8 +307,8 @@ strong a:active {
                     working with Prof. <a href="https://esslab.jp/~ess/en/" class="content">Edgar Simo-Serra</a>.
                     <br>
                     <br>
-                    Research interests: <strong>Sketch-oriented Computer Graphics</strong> and <strong>Computer Vision</strong>,
-                    including sketch understanding and generation, line drawing-based content generation (AIGC), and 2D animation.
+                    Research interests: <strong>Computer Graphics</strong> and <strong>Computer Vision</strong>,
+                    including sketch understanding and generation, line drawing-based content generation (AIGC), and 2D/3D animation.
                     <br>
                     <br>
                     <strong><a href="bio.html" class="content">☞ My bio</a></strong>
@@ -411,6 +411,56 @@ strong a:active {
 <p id="sect-publications" class="title-large">Selected Publications &nbsp;<a href="all_papers.html">(☞ All Publications)</a></p>
 <p align="justify" class="content"><em>'#' indicates equal contribution. '*' indicates corresponding author.</em></p>
 <table border="0" cellspacing="10">
+    <tr>
+        <td width="340" valign="top">
+            <a href="" class="hoverZoomLink">
+                <img src="./files/projects/doodleAssist_TVCG25.png" alt="doodleAssist" width="340" style="border:1px solid rgb(200,200,200)">
+            </a>
+        </td>
+        <td width="1200" valign="middle">
+            <heading>DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment</heading>
+            <br>
+            <p class="margin">&nbsp;</p>
+            <p class="content">
+                <strong>Haoran Mo</strong>,
+                <a href="https://yulinshen.com/">Yulin Shen</a>,
+                <a href="https://esslab.jp/~ess/en/">Edgar Simo-Serra</a> and
+                <a href="https://cislab.hkust-gz.edu.cn/members/zeyu-wang/">Zeyu Wang</a>
+            </p>
+            <p class="margin-small">&nbsp;</p>
+            <span class="content-bg"><em>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG 2025</strong>)</em></span>
+            <em><strong><font color="#F56A6A">(CCF-A)</font></strong></em>
+            <p class="margin">&nbsp;</p>
+
+            <div class="paper" id="TVCG_25_doodle">
+            <a href="" class="mybutton">Project Page</a>
+            <a href="" class="mybutton">Paper</a>
+            <a href="" class="mybutton">Supplementary</a>
+            <a href="" class="mybutton">Code</a>
+            <a href="javascript:toggleblock('TVCG25_doodle')" class="mybutton">Abstract</a>
+            <a href="javascript:togglebib('TVCG_25_doodle')" class="mybutton">Bibtex</a>
+            <p class="margin">&nbsp;</p>
+            <p class="content3" id="TVCG25_doodle">
+                Creating high-quality line art in a fast and controlled manner plays a crucial role in anime production and concept design.
+We present DoodleAssist, an interactive and progressive line art generation system controlled by sketches and prompts, which helps both experts and novices concretize their design intentions or explore possibilities.
+Built upon a controllable diffusion model, our system performs progressive generation based on the last generated line art, synthesizing regions corresponding to drawn or modified strokes while keeping the remaining ones unchanged.
+To facilitate this process, we propose a latent distribution alignment mechanism to enhance the transition between the two regions and the seamlessness of their blending, thereby alleviating issues of region incoherence and line discontinuity.
+An interactive user interface is built to allow the convenient creation of line art through sketches and prompts.
+Qualitative and quantitative comparisons against existing approaches and an in-depth user study demonstrate the effectiveness and usability of our system.
+Our system can benefit various applications such as anime concept design, drawing assistant, and creativity support for children.
+            </p>
+            <pre xml:space="preserve" class="content4">
+@article{mo2025doodleassist,
+  title   = {DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment},
+  author  = {Mo, Haoran and Shen, Yulin and Simo-Serra, Edgar and Wang, Zeyu},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year    = {2025}
+}
+</pre>
+            </div>
+        </td>
+    </tr>
+
     <tr>
         <td width="340" valign="top">
             <a href="https://markmohr.github.io/JoSTC/" class="hoverZoomLink">
@@ -583,101 +633,53 @@ strong a:active {
 
     <tr>
         <td width="340" valign="top">
-            <a href="https://github.com/MarkMoHR/DiffSketchEdit" class="hoverZoomLink">
-                <img src="./files/ICME2024/editing.gif" alt="icme2024" width="340" style="border:1px solid rgb(200,200,200)">
+            <a href="" class="hoverZoomLink">
+                <img src="./files/projects/motion_TVCG25.gif" alt="DiFusion" width="340" style="border:1px solid rgb(200,200,200)">
             </a>
         </td>
         <td width="1200" valign="middle">
-            <heading>Text-based Vector Sketch Editing with Image Editing Diffusion Prior</heading>
+            <heading>DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme</heading>
             <br>
             <p class="margin">&nbsp;</p>
             <p class="content">
-                <strong>Haoran Mo</strong>,
-                Xusheng Lin,
-                <a href="https://cse.sysu.edu.cn/teacher/GaoChengying">Chengying Gao*</a> and
-                <a href="https://sse.sysu.edu.cn/teacher/689">Ruomei Wang</a>
-            </p>
-            <p class="margin-small">&nbsp;</p>
-            <span class="content-bg">
-                <em>IEEE International Conference on Multimedia & Expo (<strong>ICME 2024</strong>)</em>
-            </span>
-            <em><strong><font color="#F56A6A">(CCF-B)</font></strong></em>
-            <p class="margin">&nbsp;</p>
-
-            <div class="paper" id="ICME24">
-            <a href="https://www.sysu-imsl.com/files/ICME2024/ICME2024_sketch_editing_final.pdf" class="mybutton">Paper</a>
-            <a href="files/ICME2024/ICME2024_sketch_editing_supp.pdf" class="mybutton">Supplementary</a>
-            <a href="https://github.com/MarkMoHR/DiffSketchEdit" class="mybutton">Code</a>
-            <a href="javascript:toggleblock('ICME_24')" class="mybutton">Abstract</a>
-            <a href="javascript:togglebib('ICME24')" class="mybutton">Bibtex</a>
-            <p class="margin">&nbsp;</p>
-            <p class="content3" id="ICME_24">
-                We present a framework for text-based vector sketch editing to improve the efficiency of graphic design. The key idea behind the approach is to transfer the prior information from raster-level diffusion models, especially those from image editing methods, into the vector sketch-oriented task. The framework presents three editing modes and allows iterative editing. To meet the editing requirement of modifying the intended parts only while avoiding changing the other strokes, we introduce a stroke-level local editing scheme that automatically produces an editing mask reflecting locally editable regions and modifies strokes within the regions only. Comparisons with existing methods demonstrate the superiority of our approach.
-            </p>
-            <pre xml:space="preserve" class="content4">
-@inproceedings{mo2024text,
-  title={Text-based Vector Sketch Editing with Image Editing Diffusion Prior},
-  author={Mo, Haoran and Lin, Xusheng and Gao, Chengying and Wang, Ruomei},
-  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
-  pages={1--6},
-  year={2024},
-  organization={IEEE}
-}
-</pre>
-            </div>
-        </td>
-    </tr>
-
-    <tr>
-        <td width="340" valign="top">
-            <a href="https://github.com/Ricardo-L-C/ColorizationWithRegion" class="hoverZoomLink">
-                <img src="./files/PG2021/colorization-PG2021.png" alt="colorization-PG2021" width="340" style="border:1px solid rgb(200,200,200)">
-            </a>
-        </td>
-        <td width="1200" valign="middle">
-            <heading>Line Art Colorization Based on Explicit Region Segmentation</heading>
-            <br>
-            <p class="margin">&nbsp;</p>
-            <p class="content">
-                <a href="https://github.com/Ricardo-L-C">Ruizhi Cao</a>,
+                <a href="">Yatian Wang</a>,
                 <strong>Haoran Mo</strong> and
                 <a href="https://cse.sysu.edu.cn/teacher/GaoChengying">Chengying Gao*</a>
             </p>
             <p class="margin-small">&nbsp;</p>
-            <span class="content-bg"><em>Computer Graphics Forum (<strong>Pacific Graphics 2021</strong>)</em></span>
-            <em><strong><font color="#F56A6A">(CCF-B)</font></strong></em>
+            <span class="content-bg"><em>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG 2025</strong>)</em></span>
+            <em><strong><font color="#F56A6A">(CCF-A)</font></strong></em>
             <p class="margin">&nbsp;</p>
 
-            <div class="paper" id="PG2021">
-            <a href="https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf" class="mybutton">Paper</a>
-            <a href="https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_supp.pdf" class="mybutton">Supplementary</a>
-            <a href="https://github.com/Ricardo-L-C/ColorizationWithRegion" class="mybutton">Code</a>
-            <a href="javascript:toggleblock('PG_21')" class="mybutton">Abstract</a>
-            <a href="javascript:togglebib('PG2021')" class="mybutton">Bibtex</a>
+            <div class="paper" id="TVCG_25_motion">
+            <a href="" class="mybutton">Paper</a>
+            <a href="javascript:toggleblock('TVCG25_motion')" class="mybutton">Abstract</a>
+            <a href="javascript:togglebib('TVCG_25_motion')" class="mybutton">Bibtex</a>
             <p class="margin">&nbsp;</p>
-            <p class="content3" id="PG_21">
-                Automatic line art colorization plays an important role in anime and comic industry.
-                While existing methods for line art colorization are able to generate plausible colorized results,
-                they tend to suffer from the color bleeding issue.
-                We introduce an explicit segmentation fusion mechanism to aid colorization frameworks in avoiding color bleeding artifacts.
-                This mechanism is able to provide region segmentation information for the colorization process explicitly
-                so that the colorization model can learn to avoid assigning the same color across regions with different semantics
-                or inconsistent colors inside an individual region.
-                The proposed mechanism is designed in a plug-and-play manner,
-                so it can be applied to a diversity of line art colorization frameworks with various kinds of user guidances.
-                We evaluate this mechanism in tag-based and reference-based line art colorization tasks
-                by incorporating it into the state-of-the-art models.
-                Comparisons with these existing models corroborate the effectiveness of our method which largely alleviates the color bleeding artifacts.
+            <p class="content3" id="TVCG25_motion">
+                To address the issue of style expression in existing
+ text-driven human motion synthesis methods, we propose DiFusion, a framework for diversely stylized motion generation.
+ It offers flexible control of content through texts and style via
+ multiple modalities, i.e., textual labels or motion sequences. Our
+ approach employs a dual-condition motion latent diffusion model,
+ enabling independent control of content and style through flexible
+ input modalities. To tackle the issue of imbalanced complexity
+ between the text-motion and style-motion datasets, we propose
+ the Digest-and-Fusion training scheme, which digests domain
+specific knowledge from both datasets and then adaptively fuses
+ them into a compatible manner. Comprehensive evaluations
+ demonstrate the effectiveness of our method and its superiority
+ over existing approaches in terms of content alignment, style
+ expressiveness, realism, and diversity. Additionally, our approach
+ can be extended to practical applications, such as motion style
+ interpolation.
             </p>
             <pre xml:space="preserve" class="content4">
-@inproceedings{cao2021line,
-  title={Line Art Colorization Based on Explicit Region Segmentation},
-  author={Cao, Ruizhi and Mo, Haoran and Gao, Chengying},
-  booktitle={Computer Graphics Forum},
-  volume={40},
-  number={7},
-  year={2021},
-  organization={Wiley Online Library}
+@article{wang2025difusion,
+  title   = {DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme},
+  author  = {Wang, Yatian and Mo, Haoran and Gao, Chengying},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year    = {2025}
 }
 </pre>
             </div>
@@ -906,8 +908,8 @@ hideblock('SketchyScene_eccv18');
 hideblock('SIGA_19');
 hideblock('SIG_21');
 hideblock('TOG_24');
-hideblock('ICME_24');
-hideblock('PG_21');
+hideblock('TVCG25_doodle');
+hideblock('TVCG25_motion');
 </script>
 
 
