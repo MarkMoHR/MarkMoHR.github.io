@@ -412,7 +412,7 @@ strong a:active {
 <table border="0" cellspacing="10">
     <tr>
         <td width="280" valign="middle">
-            <a href="" class="hoverZoomLink">
+            <a href="https://github.com/MarkMoHR/LayerInbetween" class="hoverZoomLink">
                 <img src="./files/projects/LayerInbetween_SIG26.gif" alt="LayerInbetween" width="280" style="border:1px solid rgb(200,200,200)">
             </a>
         </td>
@@ -432,15 +432,15 @@ strong a:active {
             <p class="margin">&nbsp;</p>
 
             <div class="paper" id="SIG_26_LayerInbetween">
-<!--            <a href="" class="mybutton">Project Page</a>-->
-<!--            <a href="" class="mybutton">Paper</a>-->
-<!--            <a href="" class="mybutton">Supplementary</a>-->
+            <a href="https://markmohr.github.io/LayerInbetween/" class="mybutton">Project Page</a>
+            <a href="https://cislab.hkust-gz.edu.cn/media/documents/_SIGGRAPH_2026__LayerInbetween.pdf" class="mybutton">Paper</a>
+            <a href="./files/projects/_SIGGRAPH_2026__LayerInbetween_supplementary.pdf" class="mybutton">Supplementary</a>
             <a href="https://github.com/MarkMoHR/LayerInbetween" class="mybutton">Code</a>
             <a href="javascript:toggleblock('SIG26_LayerInbetween')" class="mybutton">Abstract</a>
             <a href="javascript:togglebib('SIG_26_LayerInbetween')" class="mybutton">Bibtex</a>
             <p class="margin">&nbsp;</p>
             <p class="content3" id="SIG26_LayerInbetween">
-<!--                ***-->
+                Establishing one-to-one stroke correspondences is fundamental to vector-based animation inbetweening. Animators may face great challenges when handling occlusion, as occluded strokes must be drawn explicitly in keyframes and manually hidden frame by frame after stroke interpolation. To reduce tedious effort, we present LayerInbetween, an occlusion-aware framework for vector stroke correspondence and automatic inbetweening. It performs automatic layering to guide stroke tracing and correspondence finding for occluded strokes, and to resolve occlusion with layers in the inbetween frames. To predict occluded strokes, we propose a Global-Local Layer Transformation (GLLT) module that progressively improves the spatial alignment of strokes across keyframes via layer guidance, thereby indicating their potential positions. Our framework is trained on a synthetic dataset comprising 17k+ pairs of keyframes with occlusion and their stroke correspondences. Extensive experiments demonstrate the effectiveness of LayerInbetween compared with existing methods and its generalization capabilities to various types of drawings. In addition to its superior performance, our vector-based inbetweening method enables more flexible editing of 2D animation than raster-based video generation.
             </p>
             <pre xml:space="preserve" class="content4">
 @article{mo2026layerinbetween,
@@ -448,9 +448,10 @@ strong a:active {
   author  = {Mo, Haoran and Guan, Zhongyue and Hu, Yixin and Wang, Zeyu},
   journal = {ACM Transactions on Graphics (TOG)},
   year    = {2026},
-  volume  = {},
-  number  = {},
-  pages   = {}
+  volume  = {45},
+  number  = {4},
+  pages   = {1--17},
+  publisher={ACM New York, NY}
 }
 </pre>
             </div>
