@@ -17,10 +17,10 @@ function togglebib(paperid)
     var paper = document.getElementById(paperid) ;
     var bib = paper.getElementsByTagName('pre') ;
     if (bib.length > 0) {
-        if (bib [0] .style.display == 'none') {
-            bib [0] .style.display = 'block' ;
-        } else {
+        if (bib [0] .style.display == 'block') {
             bib [0] .style.display = 'none' ;
+        } else {
+            bib [0] .style.display = 'block' ;
         }
     }
 }
@@ -28,10 +28,10 @@ function togglebib(paperid)
 function toggleblock(blockId)
 {
    var block = document.getElementById(blockId);
-   if (block.style.display == 'none') {
-    block.style.display = 'block' ;
-   } else {
+   if (block.style.display == 'block') {
     block.style.display = 'none' ;
+   } else {
+    block.style.display = 'block' ;
    }
 }
 
