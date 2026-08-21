@@ -406,6 +406,47 @@
 
         <tr>
             <td class="pub-thumb">
+                <a href="https://ieeexplore.ieee.org/document/11659100" class="hoverZoomLink">
+                    <img loading="lazy" src="./files/projects/TopoColor_TVCG26.jpg" alt="TopoColor">
+                </a>
+            </td>
+            <td class="pub-info">
+                <heading>TopoColor: Topology-Aware Region Correspondence for Line Art Colorization</heading>
+                <p class="content">
+                    <a href="https://orcid.org/0009-0002-2783-2328">Bin Huang</a>,
+                    <strong>Haoran Mo</strong>,
+                    <a href="https://cse.sysu.edu.cn/teacher/GaoChengying">Chengying Gao*</a>
+                </p>
+                <p class="margin-small">&nbsp;</p>
+                <span class="content-bg"><em>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG 2026</strong>)</em></span>
+                <em><strong><font color="#F56A6A">(CCF-A)</font></strong></em>
+                <p class="margin">&nbsp;</p>
+                <div class="paper" id="TVCG26_TopoColor">
+                <a href="https://ieeexplore.ieee.org/document/11659100" class="mybutton">Paper</a>
+                <a href="javascript:toggleblock('TopoColor_TVCG26')" class="mybutton">Abstract</a>
+                <a href="javascript:togglebib('TVCG26_TopoColor')" class="mybutton">Bibtex</a>
+                <p class="margin">&nbsp;</p>
+                <p class="content3" id="TopoColor_TVCG26">
+                    Line art colorization is a critical yet labor-intensive bottleneck in professional animation production, requiring artists to maintain rigorous color consistency across frames. While contemporary methods leveraging feature alignment or generative diffusion have improved efficiency, they often fail when confronted with occlusions and large inter-frame deformations. The fundamental difficulty arises from the inherent sparsity of binary line-art images: the absence of internal texture limits the discriminative power of local feature descriptors, resulting in ambiguous region correspondences during propagation. To address these limitations, we propose a region-based feature enhancement framework built upon a Topology-aware Segment Graph (TSG). By explicitly modeling topological adjacency—a robust structural cue that remains invariant across frames despite significant geometric changes—our method leverages spatial context to increase feature separability across semantically distinct regions, enabling more robust alignment. Furthermore, to mitigate temporal drift and the diminishing relevance of static reference frames in long sequences, we introduce a Dual-source Temporal Selection and Refinement strategy. This mechanism adaptively integrates information from both the global reference keyframe and the immediate previous frame, balancing color fidelity with spatial continuity. Extensive experiments on industrial benchmarks demonstrate that our approach achieves superior color accuracy and temporal stability compared to state-of-the-art frameworks, particularly in scenarios involving complex character motion and topological variation.
+                </p>
+                <pre xml:space="preserve" class="content4">
+@article{huang2026topocolor,
+  author={Huang, Bin and Mo, Haoran and Gao, Chengying},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  title={TopoColor: Topology-Aware Region Correspondence for Line Art Colorization},
+  year={2026},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TVCG.2026.3725399}
+}
+</pre>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <td class="pub-thumb">
                 <a href="https://ieeexplore.ieee.org/abstract/document/11202393" class="hoverZoomLink">
                     <img loading="lazy" src="./files/projects/motion_TVCG25.gif" alt="DiFusion">
                 </a>
@@ -413,7 +454,7 @@
             <td class="pub-info">
                 <heading>DiFusion: Flexible Stylized Motion Generation Using Digest-and-Fusion Scheme</heading>
                 <p class="content">
-                    <a href="">Yatian Wang</a>,
+                    <a href="https://orcid.org/0009-0001-0663-7593">Yatian Wang</a>,
                     <strong>Haoran Mo</strong> and
                     <a href="https://cse.sysu.edu.cn/teacher/GaoChengying">Chengying Gao*</a>
                 </p>
@@ -457,60 +498,6 @@ specific knowledge from both datasets and then adaptively fuses
             </td>
         </tr>
 
-        <tr>
-            <td class="pub-thumb">
-                <a href="https://sketchyscene.github.io/SketchyScene/" class="hoverZoomLink">
-                    <img loading="lazy" src="./files/ECCV18/sketchyscene2.png" alt="SketchyScene_eccv18">
-                </a>
-            </td>
-            <td class="pub-info">
-                <heading>SketchyScene: Richly-Annotated Scene Sketches</heading>
-                <p class="content">
-                    <a href="https://scholar.google.com/citations?user=kj5HiGgAAAAJ">Changqing Zou<sup>#</sup></a>,
-                    <a href="https://yuqian1023.github.io/">Qian Yu<sup>#</sup></a>,
-                    <a href="http://www.duruofei.com/">Ruofei Du</a>,
-                    <strong>Haoran Mo</strong>,
-                    <a href="https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&hl=en">Yi-Zhe Song</a>,
-                    <a href="https://scholar.google.co.uk/citations?user=MeS5d4gAAAAJ&hl=en">Tao Xiang</a>,
-                    <a href="https://cse.sysu.edu.cn/teacher/GaoChengying">Chengying Gao</a>,
-                    <a href="http://cfcs.pku.edu.cn/baoquan/">Baoquan Chen*</a> and
-                    <a href="http://www.cs.sfu.ca/~haoz/">Hao Zhang</a>
-                </p>
-                <p class="margin-small">&nbsp;</p>
-                <span class="content-bg"><em>European Conference on Computer Vision (<strong>ECCV 2018</strong>)</em></span>
-                <em><strong><font color="#F56A6A">(CCF-B)</font></strong></em>
-                <p class="margin">&nbsp;</p>
-
-                <div class="paper" id="SketchyScene_eccv">
-                <a href="https://sketchyscene.github.io/SketchyScene/" class="mybutton">Project Page</a>
-                <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf" class="mybutton">Paper</a>
-                <a href="https://changqingzou.weebly.com/uploads/5/9/3/6/59369643/eccv_2018_qian_changqing_v2.4.pdf" class="mybutton">Poster</a>
-                <a href="https://github.com/SketchyScene/SketchyScene" class="mybutton">Code</a>
-                <a href="javascript:toggleblock('SketchyScene_eccv18')" class="mybutton">Abstract</a>
-                <a href="javascript:togglebib('SketchyScene_eccv')" class="mybutton">Bibtex</a>
-                <p class="margin">&nbsp;</p>
-                <p class="content3" id="SketchyScene_eccv18"> We contribute the first large-scale dataset of scene
-                    sketches, SketchyScene, with the goal of advancing research on sketch understanding at both the object
-                    and scene level. The dataset is created through a novel and carefully designed crowdsourcing pipeline,
-                    enabling users to efficiently generate large quantities realistic and diverse scene sketches.
-                    SketchyScene contains more than 29,000 scene-level sketches, 7,000+ pairs of scene templates and photos,
-                    and 11,000+ object sketches. All objects in the scene sketches have ground-truth semantic and instance
-                    masks. The dataset is also highly scalable and extensible, easily allowing augmenting and/or changing
-                    scene composition. We demonstrate the potential impact of SketchyScene by training new computational
-                    models for semantic segmentation of scene sketches and showing how the new dataset enables several
-                    applications including image retrieval, sketch colorization, editing, and captioning, etc. </p>
-                <pre xml:space="preserve" class="content4">
-@inproceedings{zou2018sketchyscene,
-  title={Sketchyscene: Richly-annotated scene sketches},
-  author={Zou, Changqing and Yu, Qian and Du, Ruofei and Mo, Haoran and Song, Yi-Zhe and Xiang, Tao and Gao, Chengying and Chen, Baoquan and Zhang, Hao},
-  booktitle={Proceedings of the european conference on computer vision (ECCV)},
-  pages={421--436},
-  year={2018}
-}
-</pre>
-                </div>
-            </td>
-        </tr>
     </table>
 </div>
 
