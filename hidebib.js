@@ -40,3 +40,35 @@ function hideblock(blockId)
    var block = document.getElementById(blockId);
    block.style.display = 'none' ;
 }
+
+function initThemeToggle()
+{
+    var themeToggle = document.querySelector('.theme-toggle');
+    var savedTheme = localStorage.getItem('theme');
+
+    if (savedTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+
+    if (!themeToggle) {
+        return;
+    }
+
+    updateThemeToggle(themeToggle);
+    themeToggle.addEventListener('click', function () {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+        updateThemeToggle(themeToggle);
+    });
+}
+
+function updateThemeToggle(themeToggle)
+{
+    var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    var nextThemeLabel = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+    themeToggle.setAttribute('title', nextThemeLabel);
+    themeToggle.setAttribute('aria-label', nextThemeLabel);
+}
+
+document.addEventListener('DOMContentLoaded', initThemeToggle);
