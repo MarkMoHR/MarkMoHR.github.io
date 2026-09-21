@@ -87,6 +87,78 @@ span {
     padding: 30px 24px 40px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+/* --- Section Navigation (index) --- */
+.section-nav {
+    display: none;
+}
+
+@media (min-width: 900px) {
+    .home-page .page-container {
+        margin-left: max(220px, calc(50% - 550px));
+        margin-right: 24px;
+    }
+
+    .home-page .section-nav {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        top: 50%;
+        left: max(20px, calc(50% - 840px));
+        width: 140px;
+        transform: translateY(-50%);
+        padding: 12px 8px 12px 10px;
+        background: color-mix(in srgb, var(--color-card) 92%, transparent);
+        border: 1px solid var(--color-border);
+        border-left: 3px solid var(--color-accent);
+        border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+        box-shadow: var(--shadow-sm);
+        z-index: 90;
+    }
+
+    .section-nav-title {
+        margin: 0 6px 6px;
+        color: var(--color-text-muted);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+    }
+
+    .section-nav a {
+        display: flex;
+        align-items: flex-start;
+        gap: 7px;
+        padding: 5px 5px;
+        border-radius: var(--radius-sm);
+        color: var(--color-text-secondary);
+        font-size: 13px;
+        line-height: 1.3;
+        text-decoration: none;
+        transition: var(--transition);
+    }
+
+    .section-nav a::before {
+        content: "";
+        flex: 0 0 4px;
+        width: 4px;
+        height: 4px;
+        margin-top: 7px;
+        border-radius: 50%;
+        background: var(--color-accent);
+    }
+
+    .section-nav a:hover,
+    .section-nav a:focus-visible {
+        color: var(--color-accent-hover);
+        background: rgba(13, 148, 136, 0.08);
+        text-decoration: none;
+    }
+}
+
 /* --- Navigation --- */
 .top-nav {
     background: var(--color-primary);
@@ -487,12 +559,17 @@ strong a:active {
 
 /* --- Section Cards --- */
 .section-card {
+    scroll-margin-top: 84px;
     background: var(--color-card);
     border-radius: var(--radius);
     box-shadow: var(--shadow-sm);
     padding: 24px 32px 32px;
     margin-bottom: 24px;
     transition: box-shadow var(--transition);
+}
+
+.section-card > .title-large {
+    scroll-margin-top: 84px;
 }
 
 .section-card:hover {
@@ -698,7 +775,7 @@ strong a:active {
 }
 
 .category-nav .cat-btn:hover {
-    color: var(--color-primary);
+    color: var(--color-accent-hover);
     background: rgba(13, 148, 136, 0.04);
 }
 
