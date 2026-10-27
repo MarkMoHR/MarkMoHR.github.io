@@ -314,6 +314,16 @@ html {
     line-height: 1.2;
 }
 
+.caption-subtitle {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--color-primary);
+    font-family: var(--font-body);
+    line-height: 1.2;
+}
+
 .caption-1 {
     font-size: 28px;
     font-weight: 400;
@@ -859,6 +869,10 @@ font[color="#F56A6A"] {
 
     .caption {
         font-size: 26px;
+    }
+
+    .caption-subtitle {
+        font-size: 18px;
     }
 
     .caption-1 {
